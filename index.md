@@ -26,7 +26,7 @@ Hello! I'm a Master of Science student in the [Sibley School of Mechanical and A
 I am interested in the analysis on the kinematics and kinetics of dynamical systems based on mechanics principles.
 - In my undergraduate research (summer 2023), I worked on the 3D hybrid dynamics modeling and numerical simulations of a [legged hopping robot](https://ieeexplore.ieee.org/abstract/document/10611545). 
 - As a self-driven project, I also modeled and simulated the 3D dynamics of a [wobbling coin rolling along the ground](https://github.com/Zhiheng-Chen/3D-Rolling-Disk-Dynamics-Simulation) (winter 2023). 
-- In summer and fall 2024, I worked on the dynamics modeling and simulations of a micro autonomous surface vehicle (MicroASV). 
+- In summer and fall 2024, I worked in the [UW Marine Robotics Laboratory](https://mrl.engr.wisc.edu/) on the dynamics modeling and simulations of a micro autonomous surface vehicle (MicroASV). 
 - One of my current research projects is the 3D dynamics modeling of a flexible robotic fish based on Hamilton's principle. The dynamics involve the sophisticated and interesting interactions among rigid bodies, elastic bodies, and fluids.
 
 #### Data-Driven Modeling
