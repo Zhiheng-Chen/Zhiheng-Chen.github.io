@@ -2,11 +2,25 @@
 title: Zhiheng Chen
 ---
 
-📍 Ithaca, NY  
-📧 Email: zc548@cornell.edu | ericczh1@outlook.com  
-🔗 [CV](.\assets\CV.pdf) | [GitHub](https://github.com/Zhiheng-Chen?tab=repositories)
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-Hello! I'm a Master of Science student in the [Sibley School of Mechanical and Aerospace Engineering]() at Cornell University. I am intrigued by the analytical and data-driven modeling of dynamical systems, as well as their analysis and control based on the resulting models. Specifically, my research interests include:
+  <div style="flex-shrink: 0;">
+    <img src="assets/avatar.jpg" width="140">
+  </div>
+
+  <div>
+    <h2 style="margin-bottom: 5px;">Zhiheng Chen</h2>
+    <p style="margin: 0;">MS student at Cornell MAE</p>
+    <p style="margin: 0;">📍 Ithaca, NY</p>
+    <p style="margin: 0;">📧 zc548@cornell.edu | ericczh1@outlook.com</p>
+    <p style="margin: 0;">🔗 <a href="assets/CV.pdf">CV</a> ｜ <a href="https://github.com/Zhiheng-Chen">GitHub</a></p>
+  </div>
+
+</div>
+
+---
+
+Hello! I'm a Master of Science student in the [Sibley School of Mechanical and Aerospace Engineering](https://www.engineering.cornell.edu/mae/) at Cornell University. I am intrigued by the analytical and data-driven modeling of dynamical systems, as well as their analysis and control based on the resulting models. Specifically, my research interests include:
 
 ---
 
