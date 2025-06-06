@@ -1,8 +1,5 @@
 ---
-layout: home
 title: Zhiheng Chen
-subtitle: MS Student, Cornell University MAE
-author_profile: true
 ---
 
 📍 Ithaca, NY  

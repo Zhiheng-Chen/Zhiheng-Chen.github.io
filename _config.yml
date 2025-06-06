@@ -1,16 +1,4 @@
-title: "Zhiheng Chen's Personal Webpage"
-email: zc548@cornell.edu | ericczh1@outlook.com
-description: >-
-  Zhiheng Chen's academic webpage.
-baseurl: ""
-url: "https://Zhiheng-Chen.github.io"
+title: "Zhiheng Chen"
+email: zc548@cornell.edu
+description: "MS student at Cornell MAE"
 theme: jekyll-theme-cayman
-
-plugins:
-  - jekyll-feed
-  
-author:
-  name: "Zhiheng Chen"
-  avatar: "/assets/img/avatar.jpg"
-  bio: "MS student at Cornell MAE"
-  location: "Ithaca, NY"
