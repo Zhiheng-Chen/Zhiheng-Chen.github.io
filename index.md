@@ -5,7 +5,7 @@ title: Zhiheng Chen
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <div style="flex-shrink: 0;">
-    <img src="assets/avatar.JPG" width="140">
+    <img src="./assets/avatar.JPG" width="140">
   </div>
 
   <div>
