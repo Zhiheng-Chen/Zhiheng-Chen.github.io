@@ -4,8 +4,11 @@ description: >-
   Zhiheng Chen's academic webpage.
 baseurl: ""
 url: "https://Zhiheng-Chen.github.io"
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
 
+plugins:
+  - jekyll-feed
+  
 author:
   name: "Zhiheng Chen"
   avatar: "/assets/img/avatar.jpg"
