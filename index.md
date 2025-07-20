@@ -1,7 +1,7 @@
 <div style="display: flex; gap: 40px; align-items: flex-start;">
 
   <!-- hovering avatar and navigation -->
-  <div style="position: sticky; top: 2rem; flex-shrink: 0; width: 7.7rem; text-align: center;">
+  <div style="position: sticky; top: 4rem; flex-shrink: 0; width: 7.7rem; text-align: center;">
     <img src="./assets/avatar.JPG" width="120" style="border-radius: 0.8rem; margin-bottom: 0.1rem;">
     <div style="margin-top: 1rem; font-size: 0.88rem;">
       <a href="#personal-info" style="display: block; margin: 0.5rem 0;"> Personal Info</a>
