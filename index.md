@@ -15,7 +15,7 @@
 ## Zhiheng Chen {#personal-info}
 📍 Ithaca, NY  
 📧 Email: zc548@cornell.edu | ericczh1@outlook.com  
-🔗 [CV](.\assets\CV.pdf) | [GitHub](https://github.com/Zhiheng-Chen?tab=repositories)
+🔗 [CV](./assets/CV.pdf) | [GitHub](https://github.com/Zhiheng-Chen?tab=repositories)
 
 Hello! I'm a Master of Science student in the [Sibley School of Mechanical and Aerospace Engineering](https://www.engineering.cornell.edu/mae/) at Cornell University. 
 
