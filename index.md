@@ -1,33 +1,33 @@
----
-title: Zhiheng Chen
----
+<div style="display: flex; gap: 40px; align-items: flex-start;">
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <div style="flex-shrink: 0;">
-    <img src="./assets/avatar.JPG" width="140">
+  <!-- hovering avatar and navigation -->
+  <div style="position: sticky; top: 2rem; flex-shrink: 0; width: 7.7rem; text-align: center;">
+    <img src="./assets/avatar.JPG" width="120" style="border-radius: 0.8rem; margin-bottom: 0.1rem;">
+    <div style="margin-top: 1rem; font-size: 0.88rem;">
+      <a href="#personal-info" style="display: block; margin: 0.5rem 0;"> Personal Info</a>
+      <a href="#research-overview" style="display: block; margin: 0.5rem 0;">Research Overview</a>
+    </div>
   </div>
 
-  <div>
-    <h2 style="margin-bottom: 5px;">Zhiheng Chen</h2>
-    <p style="margin: 0;">MS student at Cornell MAE</p>
-    <p style="margin: 0;">📍 Ithaca, NY</p>
-    <p style="margin: 0;">📧 zc548@cornell.edu | ericczh1@outlook.com</p>
-    <p style="margin: 0;">🔗 <a href="assets/CV.pdf">CV</a> ｜ <a href="https://github.com/Zhiheng-Chen">GitHub</a></p>
-  </div>
+  <!-- start of main contents -->
+  <div style="flex-grow: 1;">
 
-</div>
+## Zhiheng Chen {#personal-info}
+📍 Ithaca, NY  
+📧 Email: zc548@cornell.edu | ericczh1@outlook.com  
+🔗 [CV](.\assets\CV.pdf) | [GitHub](https://github.com/Zhiheng-Chen?tab=repositories)
 
----
+Hello! I'm a Master of Science student in the [Sibley School of Mechanical and Aerospace Engineering](https://www.engineering.cornell.edu/mae/) at Cornell University. 
 
-Hello! I'm a Master of Science student in the [Sibley School of Mechanical and Aerospace Engineering](https://www.engineering.cornell.edu/mae/) at Cornell University. I am intrigued by the analytical and data-driven modeling of dynamical systems, as well as their analysis and control based on the resulting models. Specifically, my research interests include:
+## Research Overview {#research-overview}
+I am intrigued by the analytical and data-driven modeling of dynamical systems, as well as their analysis and control based on the resulting models. Specifically, my research interests include:
 
 #### Analytical Dynamics Modeling
 I am interested in the analysis on the kinematics and kinetics of dynamical systems based on mechanics principles.
 - In my undergraduate research (summer 2023), I worked on the 3D hybrid dynamics modeling and numerical simulations of a [legged hopping robot](https://ieeexplore.ieee.org/abstract/document/10611545). 
 - As a self-driven project, I also modeled and simulated the 3D dynamics of a [wobbling coin rolling along the ground](https://github.com/Zhiheng-Chen/3D-Rolling-Disk-Dynamics-Simulation) (winter 2023). 
 - In summer and fall 2024, I worked in the [UW Marine Robotics Laboratory](https://mrl.engr.wisc.edu/) on the dynamics modeling and simulations of a micro autonomous surface vehicle (MicroASV). 
-- One of my current research projects is the 3D dynamics modeling of a flexible robotic fish based on Hamilton's principle. The dynamics involve the sophisticated and interesting interactions among rigid bodies, elastic bodies, and fluids.
+- One of my current research projects is the dynamics modeling of a flexible robotic fish based on Hamilton's principle. The dynamics involve the sophisticated and interesting interactions among rigid bodies, elastic bodies, and fluids. I have coded up a working simulator of the robotic fish in Julia, and I am currently working on parameter and design optimizations based on the simulation results.
 
 #### Data-Driven Modeling
 In addition to analytical modeling, I am also fascinated by system identifications and equation learning for dynamical systems. 
