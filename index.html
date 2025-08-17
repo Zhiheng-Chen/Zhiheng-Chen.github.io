@@ -1,9 +1,9 @@
 <!DOCTYPE html><html><head>
-      <title>index</title>
+      <title>Zhiheng Chen</title>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       
-      <link rel="stylesheet" href="file:///c:\Users\陈致恒\.vscode\extensions\shd101wyy.markdown-preview-enhanced-0.8.18\crossnote\dependencies\katex\katex.min.css">
+      <link rel="stylesheet" href="file:///c:\Users\陈致恒\.vscode\extensions\shd101wyy.markdown-preview-enhanced-0.8.19\crossnote\dependencies\katex\katex.min.css">
       
       
       
@@ -29,8 +29,9 @@
   <div style="position: sticky; top: 4rem; flex-shrink: 0; width: 7.7rem; text-align: center;">
     <img src="./assets/avatar.JPG" width="120" style="border-radius: 0.8rem; margin-bottom: 0.1rem;">
     <div style="margin-top: 1rem; font-size: 0.88rem;">
-      <a href="#personal-info" style="display: block; margin: 0.5rem 0;"> Personal Info</a>
-      <a href="#research-overview" style="display: block; margin: 0.5rem 0;">Research Overview</a>
+      <a href="#personal-info" style="display: block; margin: 0.5rem 0;"> Personal Info </a>
+      <a href="#research-overview" style="display: block; margin: 0.5rem 0;"> Research Overview </a>
+      <a href="#project-demos" style="display: block; margin: 0.5rem 0;"> Project Demos </a>
     </div>
   </div>
   <!-- start of main contents -->
@@ -40,6 +41,7 @@
 📧 Email: <a href="mailto:zc548@cornell.edu">zc548@cornell.edu</a> | <a href="mailto:ericczh1@outlook.com">ericczh1@outlook.com</a><br>
 🔗 <a href="./assets/CV.pdf">CV</a> | <a href="https://github.com/Zhiheng-Chen?tab=repositories">GitHub</a></p>
 <p>Hello! I'm a Master of Science student in the <a href="https://www.engineering.cornell.edu/mae/">Sibley School of Mechanical and Aerospace Engineering</a> at Cornell University.</p>
+<hr>
 <h2 id="research-overview">Research Overview </h2>
 <p>I am intrigued by the analytical and data-driven modeling of dynamical systems, as well as their analysis and control based on the resulting models. Specifically, my research interests include:</p>
 <h4 id="analytical-dynamics-modeling">Analytical Dynamics Modeling </h4>
@@ -64,6 +66,20 @@
 <li>In the legged hopping robot project, I designed aerial phase PD controllers to adjust the foot placement.</li>
 <li>In the MicroASV project, I designed LQR and variational principle-based (nonlinear) controllers for the robot, enabling it to accurately perform trajectory tracking tasks.</li>
 </ul>
+<hr>
+<h2 id="project-demos">Project Demos </h2>
+<p>I am happy to share the demos of some of my projects mentioned in my research overview.</p>
+<h4 id="dynamics-of-a-flexible-rototic-fish">Dynamics of a Flexible Rototic Fish </h4>
+<p>This is a project I am currently working on. I model the fish as a rigid head and an elastic body connected by a motor-driven revolute joint. I use Hamilton's principle, <a href="https://en.wikipedia.org/wiki/Elastica_theory">elastica theory</a>, <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.1971.0085">Lighthill's elongated body theory</a>, and Ritz series approximations to obtain the projected weak form of the equations of motion. Then I code up the numerical simulations in <a href="https://julialang.org/">Julia</a>:</p>
+<div style="text-align: left">
+    <img src="assets/Fish.gif" width="800/">
+</div>
+<h4 id="3d-dynamics-of-a-rolling-disk">3D Dynamics of a Rolling Disk </h4>
+<p>This was a self-driven project when I was an undergraduate student at UW-Madison. I modeled the 3D dynamics of the disk (size of a coin) using Lagrange's equations with 6 generalized coordinates. In the rolling phase, the equations of motion are solved in parallel with 3 constraint equations (2 nonholonomic constraints for roll without slip, and 1 holonomic constraint for the height of the contact point). I implememnted the <a href="https://github.com/Zhiheng-Chen/3D-Rolling-Disk-Dynamics-Simulation">numerical simulations of the disk</a> in MATLAB:</p>
+<div style="text-align: left">
+    <img src="assets/RollingDisk1.gif" width="330/">
+    <img src="assets/RollingDisk2.gif" width="330/">
+</div>
 </div></div>
       </div>
       
