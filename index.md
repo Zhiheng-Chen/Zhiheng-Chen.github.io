@@ -12,6 +12,7 @@ title: Zhiheng Chen
       <a href="#personal-info" style="display: block; margin: 0.5rem 0;"> Personal Info </a>
       <a href="#research-overview" style="display: block; margin: 0.5rem 0;"> Research Overview </a>
       <a href="#project-demos" style="display: block; margin: 0.5rem 0;"> Project Demos </a>
+      <a href="#my-life" style="display: block; margin: 0.5rem 0;"> My Life </a>
     </div>
   </div>
 
@@ -75,3 +76,14 @@ In my undergraduate research, I was responsible for the 3D hybrid dynamics model
 <div style="text-align: left">
     <img src="assets/PogoX.gif" width=800/>
 </div>
+
+---
+
+## My Life {#my-life}
+In my free time, I enjoy swimming, practicing boxing, and (occassionally) sculling/rowing. I also enjoy rope-skipping: during a world rope-skpping competition, I earned a world's eleventh position in the tripple-under grand final and a national seventh position in the double-under grand final!
+
+I am happy to share the videos of me
+- [doing a 25-meter butterfly stroke](assets/Butterfly.mp4)
+- [during the tripple-under rope skipping grand final](assets/RopeSkipping-TrippleUnder.mp4)
+- [practicing for the double-under rope skipping competition](assets/RopeSkipping-DoubleUnder.mp4)
+- [working to improve distance control, feints, and counter-punching with my boxing coach](assets/Boxing.mp4)
