@@ -88,3 +88,4 @@ Here are a few videos from my training and competition moments:
 - [Triple-under rope-skipping grand final](assets/RopeSkipping-TrippleUnder.mp4)
 - [Double-under rope-skipping practice](assets/RopeSkipping-DoubleUnder.mp4)
 - [Boxing drills with my coach: distance control, feints, and counter-punching](assets/Boxing.mp4)
+- [Sculling drills with my teammate](assets/Rowing.mp4) — we eventually took home a [bronze medal](assets/RowingMedal.jpg)!
