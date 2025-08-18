@@ -54,17 +54,24 @@ I am interested in the analysis and control of dynamical system based on the res
 ## Project Demos {#project-demos}
 I am happy to share the demos of some of my projects mentioned in my research overview.
 
-#### Dynamics of a Flexible Rototic Fish 
+#### Rigid-Soft-Fluid Coupling Dynamics of a Robotic Fish 
 This is a project I am currently working on. I model the fish as a rigid head and an elastic body connected by a motor-driven revolute joint. I use Hamilton's principle, [elastica theory](https://en.wikipedia.org/wiki/Elastica_theory), [Lighthill's elongated body theory](https://royalsocietypublishing.org/doi/10.1098/rspb.1971.0085), and Ritz series approximations to obtain the projected weak form of the equations of motion. Then I code up the numerical simulations in [Julia](https://julialang.org/):
 
 <div style="text-align: left">
     <img src="assets/Fish.gif" width=800/>
 </div>
 
-#### 3D Dynamics of a Rolling Disk
+#### 3D Contact Dynamics of a Rolling Disk
 This was a self-driven project when I was an undergraduate student at UW-Madison. I modeled the 3D dynamics of the disk (size of a coin) using Lagrange's equations with 6 generalized coordinates. In the rolling phase, the equations of motion are solved in parallel with 3 constraint equations (2 nonholonomic constraints for roll without slip, and 1 holonomic constraint for the height of the contact point). I implememnted the [numerical simulations of the disk](https://github.com/Zhiheng-Chen/3D-Rolling-Disk-Dynamics-Simulation) in MATLAB:
 
 <div style="text-align: left">
     <img src="assets/RollingDisk1.gif" width=330/>
     <img src="assets/RollingDisk2.gif" width=330/>
+</div>
+
+#### Hybrid Dynamics of a Legged Hopping Robot
+In my undergraduate research, I was responsible for the 3D hybrid dynamics modeling and numerical simulations of a single-legged hopping robot named [PogoX](https://ieeexplore.ieee.org/document/10611545). I modeled PogoX as 2 rigid bodies connected by a prismatic joint. The hybrid dynamics model consists of the aerial phase, the impact mapping, and the stance phase, assuming a smooth transition from the stance phase to the aerial phase. I coded up the numerical simulations in MATLAB:
+
+<div style="text-align: left">
+    <img src="assets/PogoX.gif" width=800/>
 </div>
