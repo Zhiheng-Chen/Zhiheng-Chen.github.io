@@ -58,7 +58,7 @@ I am happy to share the demos of some of my projects mentioned in my research ov
 This is a project I am currently working on. I model the fish as a rigid head and an elastic body connected by a motor-driven revolute joint. I use Hamilton's principle, [elastica theory](https://en.wikipedia.org/wiki/Elastica_theory), [Lighthill's elongated body theory](https://royalsocietypublishing.org/doi/10.1098/rspb.1971.0085), and Ritz series approximations to obtain the projected weak form of the equations of motion. Then I code up the numerical simulations in [Julia](https://julialang.org/):
 
 <div style="text-align: left">
-    <img src="assets/Fish.gif" width=800/>
+    <img src="assets/Fish.gif" width=700/>
 </div>
 
 #### 3D Contact Dynamics of a Rolling Disk
