@@ -12,7 +12,7 @@ title: Zhiheng Chen
       <a href="#personal-info" style="display: block; margin: 0.5rem 0;"> Personal Info </a>
       <a href="#research-overview" style="display: block; margin: 0.5rem 0;"> Research Overview </a>
       <a href="#project-demos" style="display: block; margin: 0.5rem 0;"> Project Demos </a>
-      <a href="#my-life" style="display: block; margin: 0.5rem 0;"> My Life </a>
+      <a href="#moments" style="display: block; margin: 0.5rem 0;"> Moments </a>
     </div>
   </div>
 
@@ -79,11 +79,12 @@ In my undergraduate research, I was responsible for the 3D hybrid dynamics model
 
 ---
 
-## My Life {#my-life}
-In my free time, I enjoy swimming, practicing boxing, and (occassionally) sculling/rowing. I also enjoy rope-skipping: during a world rope-skpping competition, I earned a world's eleventh position in the tripple-under grand final and a national seventh position in the double-under grand final!
+## Moments {#moments}
+Outside of research, I enjoy swimming, practicing boxing, and (occasionally) rowing. I’m also passionate about rope-skipping — during an international competition, I placed 11th worldwide in the triple-under grand final and 7th nationally in the double-under final!
 
-I am happy to share the videos of me
-- [doing a 25-meter butterfly stroke](assets/Butterfly.mp4)
-- [during the tripple-under rope skipping grand final](assets/RopeSkipping-TrippleUnder.mp4)
-- [practicing for the double-under rope skipping competition](assets/RopeSkipping-DoubleUnder.mp4)
-- [working to improve distance control, feints, and counter-punching with my boxing coach](assets/Boxing.mp4)
+
+Here are a few videos from my training and competition moments:
+- [25-meter butterfly stroke](assets/Butterfly.mp4)
+- [Triple-under rope-skipping grand final](assets/RopeSkipping-TrippleUnder.mp4)
+- [Double-under rope-skipping practice](assets/RopeSkipping-DoubleUnder.mp4)
+- [Boxing drills with my coach: distance control, feints, and counter-punching](assets/Boxing.mp4)
