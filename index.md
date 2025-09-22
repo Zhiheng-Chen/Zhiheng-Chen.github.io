@@ -10,8 +10,8 @@ title: Zhiheng Chen
     <img src="./assets/avatar.JPG" width="120" style="border-radius: 0.8rem; margin-bottom: 0.1rem;">
     <div style="margin-top: 1rem; font-size: 0.88rem;">
       <a href="#about" style="display: block; margin: 0.5rem 0;"> About </a>
-      <a href="#publications" style="display: block; margin: 0.5rem 0;"> Publications </a>
       <a href="#research-overview" style="display: block; margin: 0.5rem 0;"> Research Overview </a>
+      <a href="#publications" style="display: block; margin: 0.5rem 0;"> Publications </a>
       <a href="#project-demos" style="display: block; margin: 0.5rem 0;"> Project Demos </a>
       <a href="#moments" style="display: block; margin: 0.5rem 0;"> Moments </a>
     </div>
@@ -29,30 +29,19 @@ Hello! I'm a Master of Science student in the [Sibley School of Mechanical and A
 
 ---
 
-## Publications {#publications}
-[1] **Z. Chen** and W. Wang. Modeling Elastic-Body Dynamics of Fish Swimming Using a Variational Framework. *IEEE Robotics and Automation Letters (RA-L)*. [Paper](https://arxiv.org/abs/2509.16145) (*Under review*)
-
-[2] **Z. Chen** and W. Wang. Dynamic Modeling and Efficient Data-Driven Optimal Control for Micro Autonomous Surface Vehicles. *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)*. [Paper](https://arxiv.org/abs/2509.06882) (*Accepted*)
-
-[3] K. Macauley, **Z. Chen**, and W. Wang. MicroASV: An Affordable 3D-Printed Centimeter-Scale Autonomous Surface Vehicle. *2025 IEEE International Conference of Robotics and Automation (ICRA 2025)*. [Paper](https://ieeexplore.ieee.org/document/11127526)
-
-[4] Y. Wang, J. Kang, **Z. Chen**, and X. Xiong. Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control. *2024 IEEE International Conference of Robotics and Automation (ICRA 2024)*. [Paper](https://ieeexplore.ieee.org/document/10611545) (*Co-first author*)
-
----
-
 ## Research Overview {#research-overview}
-Throughout my undergraduate and master’s studies, I have centered my research and academic focus on the modeling and control of dynamical systems.
+Throughout my undergraduate and master’s studies, I have centered my research and academic focus on the **modeling and control of dynamical systems**.
 
 Around this core, I developed a robust toolkit - ranging from dynamics, optimal control, and recursive estimation to numerical analysis and data-driven system identification - not as independent pursuits, but as necessary and interdependent tools to analyze, estimate, and shape the behavior of complex physical systems.
 
 Specifically, my research interests include:
 
 #### Analytical Dynamics Modeling
-I am interested in the analysis on the kinematics and kinetics of dynamical systems based on mechanics principles.
+I am interested in the analysis of the kinematics and kinetics of dynamical systems based on mechanics principles.
 - In my undergraduate research (summer 2023), I worked on the 3D hybrid dynamics modeling and numerical simulations of a [legged hopping robot](https://ieeexplore.ieee.org/abstract/document/10611545). 
 - As a self-driven project, I also modeled and simulated the 3D dynamics of a [wobbling coin rolling along the ground](https://github.com/Zhiheng-Chen/3D-Rolling-Disk-Dynamics-Simulation) (winter 2023). 
-- In summer and fall 2024, I worked in the [Marine Robotics Laboratory](https://mrl.engr.wisc.edu/) on the dynamics modeling and simulations of a micro autonomous surface vehicle (MicroASV). 
-- One of my current research projects is the dynamics modeling of a flexible robotic fish based on Hamilton's principle. The dynamics involve the sophisticated and interesting interactions among rigid bodies, elastic bodies, and fluids. I have coded up a working simulator of the robotic fish in Julia, and I am currently working on parameter and design optimizations based on the simulation results.
+- In summer and fall 2024, I worked in the [Marine Robotics Laboratory](https://mrl.engr.wisc.edu/) on the dynamics modeling and simulations of a micro autonomous surface vehicle ([MicroASV](https://arxiv.org/abs/2509.06882)). 
+- One of my current research projects is the [dynamics modeling of a flexible robotic fish derived from Hamilton's principle](https://arxiv.org/abs/2509.16145). The dynamics involve the sophisticated and interesting interactions among rigid bodies, elastic structures, and surrounding fluids. I have coded up a working simulator of the robotic fish and a preliminary parameter study in Julia. Ongoing efforts include parameter tuning and design optimization based on the dynamics model, using gradient-based and quasi-Newton algorithms.
 
 #### Data-Driven Modeling
 In addition to analytical modeling, I am also fascinated by system identifications and equation learning for dynamical systems. 
@@ -65,6 +54,17 @@ I am interested in the analysis and control of dynamical system based on the res
 - I study fixed points, limit cycles, chaotic attractors, and bifurcations of nonlinear dynamical systems.
 - In the legged hopping robot project, I designed aerial phase PD controllers to adjust the foot placement.
 - In the MicroASV project, I designed LQR and variational principle-based (nonlinear) controllers for the robot, enabling it to accurately perform trajectory tracking tasks.
+
+---
+
+## Publications {#publications}
+[1] **Z. Chen** and W. Wang. Modeling Elastic-Body Dynamics of Fish Swimming Using a Variational Framework. *IEEE Robotics and Automation Letters (RA-L)*. [Paper](https://arxiv.org/abs/2509.16145) (*Under review*)
+
+[2] **Z. Chen** and W. Wang. Dynamic Modeling and Efficient Data-Driven Optimal Control for Micro Autonomous Surface Vehicles. *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)*. [Paper](https://arxiv.org/abs/2509.06882) (*Accepted*)
+
+[3] K. Macauley, **Z. Chen**, and W. Wang. MicroASV: An Affordable 3D-Printed Centimeter-Scale Autonomous Surface Vehicle. *2025 IEEE International Conference of Robotics and Automation (ICRA 2025)*. [Paper](https://ieeexplore.ieee.org/document/11127526)
+
+[4] Y. Wang, J. Kang, **Z. Chen**, and X. Xiong. Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control. *2024 IEEE International Conference of Robotics and Automation (ICRA 2024)*. [Paper](https://ieeexplore.ieee.org/document/10611545) (*Co-first author*)
 
 ---
 
