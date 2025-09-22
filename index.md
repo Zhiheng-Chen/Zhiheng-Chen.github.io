@@ -30,13 +30,13 @@ Hello! I'm a Master of Science student in the [Sibley School of Mechanical and A
 ---
 
 ## Publications {#publications}
-[1] **Z. Chen** and W. Wang. *Modeling Elastic-Body Dynamics of Fish Swimming Using a Variational Framework*. IEEE Robotics and Automation Letters (RA-L, under review). [arXiv preprint](https://arxiv.org/abs/2509.16145).
+[1] **Z. Chen** and W. Wang. Modeling Elastic-Body Dynamics of Fish Swimming Using a Variational Framework. *IEEE Robotics and Automation Letters (RA-L)*. [arXiv preprint](https://arxiv.org/abs/2509.16145). (*Under review*)
 
-[2] **Z. Chen** and W. Wang. *Dynamic Modeling and Efficient Data-Driven Optimal Control for Micro Autonomous Surface Vehicles*. 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025). [arXiv preprint](https://arxiv.org/abs/2509.06882).
+[2] **Z. Chen** and W. Wang. Dynamic Modeling and Efficient Data-Driven Optimal Control for Micro Autonomous Surface Vehicles. *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)*. [arXiv preprint](https://arxiv.org/abs/2509.06882). (*Accepted*)
 
-[3] K. Macauley, **Z. Chen**, and W. Wang. *MicroASV: An Affordable 3D-Printed Centimeter-Scale Autonomous Surface Vehicle*. 2025 IEEE International Conference of Robotics and Automation (ICRA 2025). [Paper link](https://ieeexplore.ieee.org/document/11127526).
+[3] K. Macauley, **Z. Chen**, and W. Wang. MicroASV: An Affordable 3D-Printed Centimeter-Scale Autonomous Surface Vehicle. *2025 IEEE International Conference of Robotics and Automation (ICRA 2025)*. [Paper link](https://ieeexplore.ieee.org/document/11127526).
 
-[4] Y. Wang, J. Kang, **Z. Chen**, and X. Xiong. *Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control*. 2024 IEEE International Conference of Robotics and Automation (ICRA 2024, co-first author). [Paper link](https://ieeexplore.ieee.org/document/10611545).
+[4] Y. Wang, J. Kang, **Z. Chen**, and X. Xiong. Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control. *2024 IEEE International Conference of Robotics and Automation (ICRA 2024)*. [Paper link](https://ieeexplore.ieee.org/document/10611545). (*Co-first author*)
 
 ---
 
