@@ -10,6 +10,7 @@ title: Zhiheng Chen
     <img src="./assets/avatar.JPG" width="120" style="border-radius: 0.8rem; margin-bottom: 0.1rem;">
     <div style="margin-top: 1rem; font-size: 0.88rem;">
       <a href="#about" style="display: block; margin: 0.5rem 0;"> About </a>
+      <a href="#publications" style="display: block; margin: 0.5rem 0;"> Publications </a>
       <a href="#research-overview" style="display: block; margin: 0.5rem 0;"> Research Overview </a>
       <a href="#project-demos" style="display: block; margin: 0.5rem 0;"> Project Demos </a>
       <a href="#moments" style="display: block; margin: 0.5rem 0;"> Moments </a>
@@ -25,6 +26,17 @@ title: Zhiheng Chen
 🔗 [CV](./assets/CV.pdf) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=P07pyI0AAAAJ&sortby=pubdate&view_op=list_works&gmla=AH8HC4w-r-FrGec2ZXnlCZq1bFQbYdELeyPaTtNHRWEObM7CbUKhBYTyIp_VOG55eYldkJ8sdH8sJzHZ5R-6brxU) | [GitHub](https://github.com/Zhiheng-Chen?tab=repositories)
 
 Hello! I'm a Master of Science student in the [Sibley School of Mechanical and Aerospace Engineering](https://www.engineering.cornell.edu/mae/) at Cornell University. 
+
+---
+
+## Publications {#publications}
+[1] **Z. Chen** and W. Wang. *Modeling Elastic-Body Dynamics of Fish Swimming Using a Variational Framework*. IEEE Robotics and Automation Letters (RA-L, under review). [ar$\Chi$iv preprint](https://arxiv.org/abs/2509.16145).
+
+[2] **Z. Chen** and W. Wang. *Dynamic Modeling and Efficient Data-Driven Optimal Control for Micro Autonomous Surface Vehicles*. 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025). [ar$\Chi$iv preprint](https://arxiv.org/abs/2509.06882).
+
+[3] K. Macauley, **Z. Chen**, and W. Wang. *MicroASV: An Affordable 3D-Printed Centimeter-Scale Autonomous Surface Vehicle*. 2025 IEEE International Conference of Robotics and Automation (ICRA 2025). [Paper link](https://ieeexplore.ieee.org/document/11127526).
+
+[4] Y. Wang, J. Kang, **Z. Chen**, and X. Xiong. *Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control*. 2024 IEEE International Conference of Robotics and Automation (ICRA 2024, co-first author). [Paper link](https://ieeexplore.ieee.org/document/10611545).
 
 ---
 
@@ -80,6 +92,14 @@ In my undergraduate research, I was responsible for the 3D hybrid dynamics model
 <div style="text-align: left">
     <img src="assets/PogoX.gif" width=800/>
 </div>
+
+#### EKF-ST for Simultaneous State Estimation and Equation Learning
+This is an individual course project from my Model-Based Estimation course at Cornell University. I devised the [EKF-ST](https://github.com/Zhiheng-Chen/EKF-ST) algorithm (extended Kalman filter with sequential thresholding). The algorithm enables simultaneous and recursively refined state estimations and sparse system identifications for nonlinear dynamical systems. EKF-ST adds a thresholding process to the original EKF prediction-update loops to prune the spurious basis functions and the corresponding covariances.
+
+<figure style="text-align: left">
+  <img src="assets/EKF-ST.png" width=800/>
+  <figcaption style="font-size: 0.9rem; color: #000000ff;">EKF-ST estimation for the Lorenz system with process and observation noise, an unknown governing equation, and partial state observations.</figcaption>
+</figure>
 
 ---
 
