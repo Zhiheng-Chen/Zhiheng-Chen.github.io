@@ -72,7 +72,7 @@ I am interested in the analysis and control of dynamical system based on the res
 I am happy to share the demos of some of my projects mentioned in my research overview.
 
 #### Rigid-Soft-Fluid Coupling Dynamics of a Robotic Fish 
-This is a project I am currently working on. I model the fish as a rigid head and an elastic body connected by a motor-driven revolute joint. I use Hamilton's principle, [elastica theory](https://en.wikipedia.org/wiki/Elastica_theory), [Lighthill's elongated body theory](https://royalsocietypublishing.org/doi/10.1098/rspb.1971.0085), and Ritz series approximations to obtain the projected weak form of the equations of motion. Then I code up the numerical simulations in [Julia](https://julialang.org/):
+This is a project I am currently working on. I model the fish as a rigid head and an elastic body connected by a motor-driven revolute joint. I use Hamilton's principle, elastica theory, [Lighthill's elongated body theory](https://royalsocietypublishing.org/doi/10.1098/rspb.1971.0085), and Ritz series approximations to obtain the projected weak form of the equations of motion (see [paper](https://arxiv.org/abs/2509.16145)). Then I code up the numerical simulations in [Julia](https://julialang.org/):
 
 <div style="text-align: left">
     <img src="assets/Fish.gif" width=700/>
