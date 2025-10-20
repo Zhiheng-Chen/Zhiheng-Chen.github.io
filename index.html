@@ -81,26 +81,27 @@
 <p>I am happy to share the demos of some of my projects mentioned in my research overview.</p>
 <h4 id="rigid-soft-fluid-coupling-dynamics-of-a-robotic-fish">Rigid-Soft-Fluid Coupling Dynamics of a Robotic Fish </h4>
 <p>This is a project I am currently working on. I model the fish as a rigid head and an elastic body connected by a motor-driven revolute joint. I use Hamilton's principle, elastica theory, <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.1971.0085">Lighthill's elongated body theory</a>, and Ritz series approximations to obtain the projected weak form of the equations of motion (see <a href="https://arxiv.org/abs/2509.16145">paper</a>). Then I code up the numerical simulations in <a href="https://julialang.org/">Julia</a>:</p>
-<div style="text-align: left">
-    <img src="assets/Fish.gif" width="700/">
+<div style="text-align: center">
+  <img src="assets/Fish.gif" width="600" style="clip-path: inset(0px 2px 0px 2px); position: relative;">
+  <figcaption style="font-size: 0.9rem; color: #000000ff;">Simulation of the flexible robotic fish in Julia, with closed-loop control for forward velocity.</figcaption>
 </div>
 <h4 id="3d-contact-dynamics-of-a-rolling-disk">3D Contact Dynamics of a Rolling Disk </h4>
 <p>This was a self-driven project when I was an undergraduate student at UW-Madison. I modeled the 3D dynamics of the disk (size of a coin) using Lagrange's equations with 6 generalized coordinates. In the rolling phase, the equations of motion are solved in parallel with 3 constraint equations (2 nonholonomic constraints for roll without slip, and 1 holonomic constraint for the height of the contact point). I implememnted the <a href="https://github.com/Zhiheng-Chen/3D-Rolling-Disk-Dynamics-Simulation">numerical simulations of the disk</a> in MATLAB:</p>
-<div style="text-align: left">
-    <img src="assets/RollingDisk1.gif" width="330/">
-    <img src="assets/RollingDisk2.gif" width="330/">
+<div style="text-align: center">
+    <img src="assets/RollingDisk1.gif" width="330" style="clip-path: inset(6px 20px 18px 18px); position: relative;">
+    <img src="assets/RollingDisk2.gif" width="330" style="clip-path: inset(6px 80px 18px 80px); position: relative;">
 </div>
 <h4 id="hybrid-dynamics-of-a-legged-hopping-robot">Hybrid Dynamics of a Legged Hopping Robot </h4>
 <p>In my undergraduate research, I was responsible for the 3D hybrid dynamics modeling and numerical simulations of a single-legged hopping robot named <a href="https://ieeexplore.ieee.org/document/10611545">PogoX</a>. I modeled PogoX as 2 rigid bodies connected by a prismatic joint. The hybrid dynamics model consists of the aerial phase, the impact mapping, and the stance phase, assuming a smooth transition from the stance phase to the aerial phase. I coded up the numerical simulations in MATLAB:</p>
-<div style="text-align: left">
-    <img src="assets/PogoX.gif" width="800/">
+<div style="text-align: center">
+    <img src="assets/PogoX.gif" width="600" style="clip-path: inset(10px 50px 15px 50px); position: relative;">
 </div>
 <h4 id="ekf-st-for-simultaneous-state-estimation-and-equation-learning">EKF-ST for Simultaneous State Estimation and Equation Learning </h4>
 <p>This is an individual course project from my Model-Based Estimation course at Cornell University. I devised the <a href="https://github.com/Zhiheng-Chen/EKF-ST">EKF-ST</a> algorithm (extended Kalman filter with sequential thresholding). The algorithm enables simultaneous and recursively refined state estimations and sparse system identifications for nonlinear dynamical systems. EKF-ST adds a thresholding process to the original EKF prediction-update loops to prune the spurious basis functions and the corresponding covariances.</p>
-<figure style="text-align: left">
-  <img src="assets/EKF-ST.png" width="800/">
+<div style="text-align: center">
+  <img src="assets/EKF-ST.png" width="500/">
   <figcaption style="font-size: 0.9rem; color: #000000ff;">EKF-ST estimation for the Lorenz system with process and observation noise, an unknown governing equation, and partial state observations.</figcaption>
-</figure>
+</div>
 <hr>
 <h2 id="moments">Moments </h2>
 <p>Outside of research, I enjoy swimming, practicing boxing, and (occasionally) rowing. I’m also passionate about rope-skipping — during an international competition, I placed 11th worldwide in the triple-under grand final and 7th nationally in the double-under final!</p>
