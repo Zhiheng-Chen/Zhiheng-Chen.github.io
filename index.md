@@ -62,11 +62,13 @@ I am interested in the analysis and control of dynamical system based on the res
 
 [2] **Z. Chen** and W. Wang. Modeling Elastic-Body Dynamics of Robotic Fish Using a Variational Framework. *IEEE Robotics and Automation Letters (RA-L)*. [Paper](https://arxiv.org/abs/2509.16145v2) (*Under review*)
 
-[3] **Z. Chen** and W. Wang. Dynamic Modeling and Efficient Data-Driven Optimal Control for Micro Autonomous Surface Vehicles. *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)*. [Paper](https://arxiv.org/abs/2509.06882) (*Accepted*)
+[3] K. Macauley, M. Zhao, **Z. Chen**, and W. Wang. Design and Control of Centimeter-Scale Reconfigurable Aquatic Modular Robots. *IEEE Robotics and Automation Letters (RA-L)*. (*Under review*)
 
-[4] K. Macauley, **Z. Chen**, and W. Wang. MicroASV: An Affordable 3D-Printed Centimeter-Scale Autonomous Surface Vehicle. *2025 IEEE International Conference of Robotics and Automation (ICRA 2025)*. [Paper](https://ieeexplore.ieee.org/document/11127526)
+[4] **Z. Chen** and W. Wang. Dynamic Modeling and Efficient Data-Driven Optimal Control for Micro Autonomous Surface Vehicles. *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)*. [Paper](https://arxiv.org/abs/2509.06882) (*Accepted*)
 
-[5] Y. Wang, J. Kang, **Z. Chen**, and X. Xiong. Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control. *2024 IEEE International Conference of Robotics and Automation (ICRA 2024)*. [Paper](https://ieeexplore.ieee.org/document/10611545) (*Co-first author*)
+[5] K. Macauley, **Z. Chen**, and W. Wang. MicroASV: An Affordable 3D-Printed Centimeter-Scale Autonomous Surface Vehicle. *2025 IEEE International Conference of Robotics and Automation (ICRA 2025)*. [Paper](https://ieeexplore.ieee.org/document/11127526)
+
+[6] Y. Wang, J. Kang, **Z. Chen**, and X. Xiong. Terrestrial Locomotion of PogoX: From Hardware Design to Energy Shaping and Step-to-step Dynamics Based Control. *2024 IEEE International Conference of Robotics and Automation (ICRA 2024)*. [Paper](https://ieeexplore.ieee.org/document/10611545) (*Co-first author*)
 
 ---
 
