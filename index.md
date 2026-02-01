@@ -58,13 +58,13 @@ I am interested in the analysis and control of dynamical system based on the res
 ---
 
 ## Publications {#publications}
-[1] **Z. Chen**, U. Fasel, and A. Bizyaeva. Fourier Weak SINDy: Spectral Test Function Design and Selection for Robust Model Identification. *8th Annual Learning for Dynamics & Control Conference (L4DC 2026)*. (*Under review*)
+[1] **Z. Chen**, U. Fasel, and A. Bizyaeva. Fourier Weak SINDy: Spectral Test Function Design and Selection for Robust Model Identification. *8th Annual Learning for Dynamics & Control Conference (L4DC 2026)*. (*Accepted*)
 
 [2] **Z. Chen** and W. Wang. Modeling Elastic-Body Dynamics of Robotic Fish Using a Variational Framework. *IEEE Robotics and Automation Letters (RA-L)*. [Paper](https://arxiv.org/abs/2509.16145v2) (*Under review*)
 
 [3] K. Macauley, M. Zhao, **Z. Chen**, and W. Wang. Design and Control of Centimeter-Scale Reconfigurable Aquatic Modular Robots. *IEEE Robotics and Automation Letters (RA-L)*. (*Under review*)
 
-[4] **Z. Chen** and W. Wang. Dynamic Modeling and Efficient Data-Driven Optimal Control for Micro Autonomous Surface Vehicles. *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)*. [Paper](https://arxiv.org/abs/2509.06882) (*Accepted*)
+[4] **Z. Chen** and W. Wang. Dynamic Modeling and Efficient Data-Driven Optimal Control for Micro Autonomous Surface Vehicles. *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)*. [Paper](https://ieeexplore.ieee.org/abstract/document/11246520)
 
 [5] K. Macauley, **Z. Chen**, and W. Wang. MicroASV: An Affordable 3D-Printed Centimeter-Scale Autonomous Surface Vehicle. *2025 IEEE International Conference of Robotics and Automation (ICRA 2025)*. [Paper](https://ieeexplore.ieee.org/document/11127526)
 
