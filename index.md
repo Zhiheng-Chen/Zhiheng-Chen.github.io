@@ -58,7 +58,7 @@ I am interested in the analysis and control of dynamical system based on the res
 ---
 
 ## Publications {#publications}
-[1] **Z. Chen**, U. Fasel, and A. Bizyaeva. Fourier Weak SINDy: Spectral Test Function Design and Selection for Robust Model Identification. *8th Annual Learning for Dynamics & Control Conference (L4DC 2026)*. [Paper](https://arxiv.org/pdf/2604.20141). (*Accepted*)
+[1] **Z. Chen**, U. Fasel, and A. Bizyaeva. Fourier Weak SINDy: Spectral Test Function Design and Selection for Robust Model Identification. *8th Annual Learning for Dynamics & Control Conference (L4DC 2026)*. [Paper](https://arxiv.org/pdf/2604.20141) (*Accepted*).
 
 [2] **Z. Chen** and W. Wang. Modeling Elastic-Body Dynamics of Robotic Fish Using a Variational Framework. [Paper](https://arxiv.org/pdf/2509.16145) 
 
