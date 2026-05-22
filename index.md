@@ -22,10 +22,10 @@ title: Zhiheng Chen
 
 ## Zhiheng Chen {#about}
 📍 Ithaca, NY  
-📧 Email: zc548@cornell.edu | ericczh1@outlook.com  
+📧 Email: czhiheng@umich.edu | ericczh1@outlook.com  
 🔗 [CV](./assets/CV.pdf) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=P07pyI0AAAAJ&sortby=pubdate&view_op=list_works&gmla=AH8HC4w-r-FrGec2ZXnlCZq1bFQbYdELeyPaTtNHRWEObM7CbUKhBYTyIp_VOG55eYldkJ8sdH8sJzHZ5R-6brxU) | [GitHub](https://github.com/Zhiheng-Chen?tab=repositories)
 
-Hello! I'm a Master of Science student in the [Sibley School of Mechanical and Aerospace Engineering](https://www.engineering.cornell.edu/mae/) at Cornell University. 
+Hello! I'm a Ph.D. student in [Mechanical Engineering at University of Michigan-Ann Arbor](https://me.engin.umich.edu/). 
 
 ---
 
@@ -45,7 +45,7 @@ I am interested in the analysis of the kinematics and kinetics of dynamical syst
 
 #### Data-Driven Modeling
 In addition to analytical modeling, I am also fascinated by system identifications and equation learning for dynamical systems. 
-- My research project at Cornell University on the weak formulation of the Sparse Identification of Nonlinear Dynamics (SINDy) is supervised by Professor [Anastasia Bizyaeva](https://www.engineering.cornell.edu/people/anastasia-bizyaeva/). We are working towards using Fourier-mode test functions and incorporating classical signal processing techniques to boost the interpretability, efficiency, and noise-robustness of weak-form SINDy. 
+- My Master's research project at Cornell University on the weak formulation of the Sparse Identification of Nonlinear Dynamics (SINDy) was supervised by Professor [Anastasia Bizyaeva](https://www.engineering.cornell.edu/people/anastasia-bizyaeva/). We used Fourier-mode test functions, frequency-domain reformulations, and classical signal processing techniques to improve the interpretability, efficiency, and noise-robustness of weak-form SINDy. You can access my thesis [here](./assets/ZhihengMSThesis.pdf).
 - In the MicroASV project, I also designed a weak formulation-based parameter estimation algorithm to iteratively refine the dynamics model. 
 - In Spring 2025, I designed the [EKF-ST](https://github.com/Zhiheng-Chen/EKF-ST) algorithm that combines the extended Kalman filter and sequential thresholding techniques. The algorithm enables recursive and simultaneous state estimations and equation learning.
 
@@ -62,7 +62,7 @@ I am interested in the analysis and control of dynamical system based on the res
 
 [2] **Z. Chen** and W. Wang. Modeling Elastic-Body Dynamics of Robotic Fish Using a Variational Framework. [Paper](https://arxiv.org/pdf/2509.16145) 
 
-[3] K. Macauley, M. Zhao, **Z. Chen**, and W. Wang. Design and Control of Centimeter-Scale Reconfigurable Aquatic Modular Robots. *IEEE Robotics and Automation Letters (RA-L)*. (*Accepted*)
+[3] K. Macauley, M. Zhao, **Z. Chen**, and W. Wang. Design and Control of Centimeter-Scale Reconfigurable Aquatic Modular Robots. *IEEE Robotics and Automation Letters (RA-L)*. [Paper](https://ieeexplore.ieee.org/document/11520676)
 
 [4] **Z. Chen** and W. Wang. Dynamic Modeling and Efficient Data-Driven Optimal Control for Micro Autonomous Surface Vehicles. *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)*. [Paper](https://ieeexplore.ieee.org/abstract/document/11246520)
 
@@ -83,6 +83,15 @@ This is a project I am currently working on. I model the fish as a rigid head an
        width=600
        style="clip-path: inset(0px 2px 0px 2px); position: relative;"/>
   <figcaption style="font-size: 0.9rem; color: #000000ff;">Simulation of the flexible robotic fish in Julia, with closed-loop control for forward velocity.</figcaption>
+</div>
+
+#### Fourier Weak SINDy 
+This was the project that led to my Master's research [thesis](./assets/ZhihengMSThesis.pdf) and a [paper](https://arxiv.org/pdf/2604.20141) published to L4DC 2026. We use Fourier-mode test functions for weak-form SINDy. This frequency-domain reformulation enables interpretable hyperparameter selections by spectral density estimation and an efficiency improvement by leveraging the Fast Fourier Transform. Fourier Weak SINDy shows improved robustness to measurement noise on multiple benchmark dynamical systems:
+<div style="text-align: center">
+  <img src="assets/FourierWSINDy.png"
+       width=600
+       style="clip-path: inset(0px 2px 0px 2px); position: relative;"/>
+  <figcaption style="font-size: 0.9rem; color: #000000ff;">Simulation results on learning the governing ODEs of the Lorenz system using Fourier Weak SINDy with spectral density estimation (SDE), compared to other SINDy variants.</figcaption>
 </div>
 
 #### 3D Contact Dynamics of a Rolling Disk
