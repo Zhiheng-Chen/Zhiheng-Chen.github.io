@@ -25,7 +25,7 @@ title: Zhiheng Chen
 📧 Email: czhiheng@umich.edu | ericczh1@outlook.com  
 🔗 [CV](./assets/CV.pdf) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=P07pyI0AAAAJ&sortby=pubdate&view_op=list_works&gmla=AH8HC4w-r-FrGec2ZXnlCZq1bFQbYdELeyPaTtNHRWEObM7CbUKhBYTyIp_VOG55eYldkJ8sdH8sJzHZ5R-6brxU) | [GitHub](https://github.com/Zhiheng-Chen?tab=repositories)
 
-Hello! I'm a Ph.D. student in [Mechanical Engineering at University of Michigan-Ann Arbor](https://me.engin.umich.edu/). 
+Hello! I'm a Ph.D. student in [Mechanical Engineering at University of Michigan-Ann Arbor](https://me.engin.umich.edu/). I received my Master of Science in Mechanical Engineering from [Cornell University](https://www.duffield.cornell.edu/mae/); my Master's research on spectral test function selections for weak-form sparse system identification was supervised by Professor [Anastasia Bizyaeva](https://www.engineering.cornell.edu/people/anastasia-bizyaeva/) (you can access my thesis [here](./assets/ZhihengMSThesis.pdf)). Before that, I received my Bachelor of Science in Mechanical Engineering from [University of Wisconsin-Madison](https://engineering.wisc.edu/departments/mechanical-engineering/). 
 
 ---
 
@@ -45,7 +45,7 @@ I am interested in the analysis of the kinematics and kinetics of dynamical syst
 
 #### Data-Driven Modeling
 In addition to analytical modeling, I am also fascinated by system identifications and equation learning for dynamical systems. 
-- My Master's research project at Cornell University on the weak formulation of the Sparse Identification of Nonlinear Dynamics (SINDy) was supervised by Professor [Anastasia Bizyaeva](https://www.engineering.cornell.edu/people/anastasia-bizyaeva/). We used Fourier-mode test functions, frequency-domain reformulations, and classical signal processing techniques to improve the interpretability, efficiency, and noise-robustness of weak-form SINDy. You can access my thesis [here](./assets/ZhihengMSThesis.pdf).
+- My Master's research project at Cornell University was on the weak formulation of the Sparse Identification of Nonlinear Dynamics (SINDy). We use Fourier-mode test functions, frequency-domain reformulations, and classical signal processing techniques to improve the interpretability, efficiency, and noise-robustness of weak-form SINDy. You can access my thesis [here](./assets/ZhihengMSThesis.pdf).
 - In the MicroASV project, I also designed a weak formulation-based parameter estimation algorithm to iteratively refine the dynamics model. 
 - In Spring 2025, I designed the [EKF-ST](https://github.com/Zhiheng-Chen/EKF-ST) algorithm that combines the extended Kalman filter and sequential thresholding techniques. The algorithm enables recursive and simultaneous state estimations and equation learning.
 
